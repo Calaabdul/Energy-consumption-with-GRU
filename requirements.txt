@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+datasets
+transformers
+tqdm
+pillow
+numpy
+pandas 
+matplotlib
+seaborn
+scikit-learn
+optuna
+statsmodels
+torchmetrics
