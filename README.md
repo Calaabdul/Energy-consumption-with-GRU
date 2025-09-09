@@ -1,6 +1,6 @@
  # Load Prediction on PDV Electric Power
 
-## Predicting electric power load from time series data using PyTorch GRUs on Mac systems with MPS acceleration.
+## Predicting electric power load from time series data using PyTorch GRUs.
 
 
 ### 📖 Project Overview
