@@ -6,9 +6,9 @@
 ### 📖 Project Overview
 
 This project builds and trains a time series forecasting model for electric load prediction.
-	•	The dataset is sourced from Kaggle.
-	•	The model is based on GRU (Gated Recurrent Unit) networks, which are well-suited for sequential data.
-	•	Training is accelerated using MPS (Metal Performance Shaders) on Apple Silicon (M1/M2/M3) Macs.
+The dataset is sourced from Kaggle.
+The model is based on GRU (Gated Recurrent Unit) networks, which are well-suited for sequential data.
+Training is accelerated using MPS (Metal Performance Shaders) on Apple Silicon (M1/M2/M3) Macs.
 
 Why this matters:
 Accurate load prediction helps in managing power demand, reducing operational costs, and ensuring grid stability.
